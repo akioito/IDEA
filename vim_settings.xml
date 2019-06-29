@@ -12,8 +12,8 @@
       <file name="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/sample.rs" timestamp="1561800461900">
         <mark key="'" line="104" column="3" />
       </file>
-      <file name="$USER_HOME$/Downloads2019/rust/xsv/src/config.rs" timestamp="1561800061184">
-        <mark key="'" line="262" column="11" />
+      <file name="$USER_HOME$/Downloads2019/rust/xsv/src/config.rs" timestamp="1561839428372">
+        <mark key="'" line="169" column="18" />
       </file>
       <file name="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" timestamp="1561802034934">
         <mark key="'" line="29" column="47" />
@@ -35,16 +35,18 @@
       <jump line="50" column="8" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" />
       <jump line="65" column="4" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" />
       <jump line="29" column="47" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" />
+      <jump line="168" column="32" filename="$USER_HOME$/Downloads2019/rust/xsv/src/config.rs" />
+      <jump line="169" column="18" filename="$USER_HOME$/Downloads2019/rust/xsv/src/config.rs" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text>for</text>
+        <text encoding="base64">XDxpc19ub25lXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search>for</last-search>
+      <last-search encoding="base64">XDxpc19ub25lXD4=</last-search>
       <last-offset />
-      <last-pattern>for</last-pattern>
+      <last-pattern encoding="base64">XDxpc19ub25lXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -57,6 +59,8 @@
         <entry encoding="base64">XDxzYW1wbGVfcmVzZXJ2b2lyXD4=</entry>
         <entry encoding="base64">XDxmb3JcPg==</entry>
         <entry>for</entry>
+        <entry>is_none</entry>
+        <entry encoding="base64">XDxpc19ub25lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>search</entry>
