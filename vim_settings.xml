@@ -6,7 +6,6 @@
       <file name="/Dummy.txt" timestamp="1561796501606">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/join.rs" timestamp="1561800671426" />
       <file name="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/cmp.rs" timestamp="1561799492138">
         <mark key="'" line="755" column="42" />
       </file>
@@ -16,9 +15,13 @@
       <file name="$USER_HOME$/Downloads2019/rust/xsv/src/config.rs" timestamp="1561800061184">
         <mark key="'" line="262" column="11" />
       </file>
-      <file name="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/flatten.rs" timestamp="1561799928530" />
-      <file name="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/index.rs" timestamp="1561800357510" />
-      <file name="$USER_HOME$/Downloads2019/rust/rust-iterators/src/main.rs" timestamp="1561798353970" />
+      <file name="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" timestamp="1561802034934">
+        <mark key="'" line="29" column="47" />
+        <mark key="[" line="58" column="34" />
+        <mark key="]" line="58" column="34" />
+        <mark key="^" line="58" column="34" />
+        <mark key="." line="58" column="34" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="756" column="0" filename="$USER_HOME$/.rustup/toolchains/stable-x86_64-apple-darwin/lib/rustlib/src/rust/src/libcore/cmp.rs" />
@@ -28,16 +31,20 @@
       <jump line="71" column="16" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/sample.rs" />
       <jump line="77" column="12" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/sample.rs" />
       <jump line="104" column="3" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/sample.rs" />
+      <jump line="48" column="4" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" />
+      <jump line="50" column="8" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" />
+      <jump line="65" column="4" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" />
+      <jump line="29" column="47" filename="$USER_HOME$/Downloads2019/rust/xsv/src/cmd/headers.rs" />
     </jumps>
     <registers>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYW1wbGVfcmVzZXJ2b2lyXD4=</text>
+        <text>for</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYW1wbGVfcmVzZXJ2b2lyXD4=</last-search>
+      <last-search>for</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYW1wbGVfcmVzZXJ2b2lyXD4=</last-pattern>
+      <last-pattern>for</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -48,6 +55,8 @@
         <entry encoding="base64">XDwiXD4=</entry>
         <entry encoding="base64">XDxpb19yZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxzYW1wbGVfcmVzZXJ2b2lyXD4=</entry>
+        <entry encoding="base64">XDxmb3JcPg==</entry>
+        <entry>for</entry>
       </history-search>
       <history-cmd>
         <entry>search</entry>
@@ -56,6 +65,13 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
